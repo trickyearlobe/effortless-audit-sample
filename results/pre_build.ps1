@@ -1,0 +1,5 @@
+$pkg_origin="trickyearlobe"
+$pkg_name="effortless-audit-sample"
+$pkg_version="0.1.0"
+$pkg_release="20190819074652"
+$pkg_ident="trickyearlobe/effortless-audit-sample/0.1.0/20190819074652"

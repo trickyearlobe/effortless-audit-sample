@@ -1,0 +1,9 @@
+$pkg_name="effortless-audit-sample"
+$pkg_origin="trickyearlobe"
+$pkg_version="0.1.0"
+$pkg_maintainer="Richard Nixon <rnixon@chef.io>"
+$pkg_description="Sample Inspec profile with Habitat scaffolding"
+$pkg_license=@("Apache-2.0")
+$pkg_scaffolding="chef/scaffolding-chef-inspec"
+$pkg_deps=@("stuartpreston/inspec")
+$pkg_build_deps=@("stuartpreston/inspec")

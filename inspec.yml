@@ -1,0 +1,8 @@
+name: effortless-audit-sample
+title: InSpec Profile
+maintainer: Richard Nixon
+copyright: Richard Nixon
+copyright_email: rnixon@chef.io
+license: Apache-2.0
+summary: Effortless Audit Sample Profile
+version: 0.1.0
